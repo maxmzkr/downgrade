@@ -1,0 +1,6 @@
+github.com/maxmzkr/downgrade/depa v0.1.1 h1:cnthzn/nKRvBI79y7LuiyOxkTCK7C8Fx7uv99eehHZ4=
+github.com/maxmzkr/downgrade/depa v0.1.1/go.mod h1:+qBjc1s3fLkdKMOCkjUslfDTZjNyCWDhsVINoGGnEUg=
+github.com/maxmzkr/downgrade/depb v0.1.2 h1:h4xGdlY7H1AS7CVOz+G41hiy+waKVlTQnfk6X+EK3Q8=
+github.com/maxmzkr/downgrade/depb v0.1.2/go.mod h1:Svem68lDdZD1GIJuw12RX7pJ+c8+r3FscXsqeTE/5tY=
+github.com/maxmzkr/downgrade/depc v0.1.2 h1:IFtLrzt91rTj9AvMQetYWaOtDPMuekqDAnCNXcexvB8=
+github.com/maxmzkr/downgrade/depc v0.1.2/go.mod h1:4rhxj/JPF82USTKQbxSmASC3SOiZ0ByZH0v1ME6jiiY=
