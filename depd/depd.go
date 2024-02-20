@@ -1,13 +1,11 @@
 package depd
 
-package main
-
 import (
-	"github.com/maxmzkr/downgrade/depd"
+	"github.com/maxmzkr/downgrade/depa"
 	"github.com/maxmzkr/downgrade/depb"
 )
 
-func main() {
+func Version() {
 	depa.Version()
 	depb.Version()
 }
